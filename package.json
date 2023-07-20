@@ -1,0 +1,33 @@
+{
+  "name": "@steeringwaves/prettier-config",
+  "version": "1.0.0",
+  "description": "Steeringwave's Prettier config, following our styleguide",
+  "main": "prettier-config.json",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steeringwaves/js-prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "config",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steeringwaves/js-prettier-config/issues"
+  },
+  "homepage": "https://github.com/steeringwaves/js-prettier-config#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "peerDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
