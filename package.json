@@ -1,6 +1,6 @@
 {
   "name": "@steeringwaves/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Steeringwave's Prettier config, following our styleguide",
   "main": "prettier-config.json",
   "private": false,
