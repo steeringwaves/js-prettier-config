@@ -1,6 +1,6 @@
 {
   "name": "@steeringwaves/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Steeringwave's Prettier config, following our styleguide",
   "main": "prettier-config.json",
   "private": false,
@@ -28,6 +28,6 @@
     "node": ">=16.0.0"
   },
   "peerDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^3.0.3"
   }
 }
